@@ -33,7 +33,7 @@
   "devDependencies": {
     "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
-    "@popperjs/core": "^2.5.3",
+    "@popperjs/core": "^2.8.4",
     "@testing-library/react": "^11.1.0",
     "framer-motion": "^2.9.3",
     "next": "9.5.5",
