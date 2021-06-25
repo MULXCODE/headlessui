@@ -2105,10 +2105,10 @@
     lodash "^4.17.15"
     pretty "^2.0.0"
 
-"@vue/test-utils@^2.0.0-beta.7":
-  version "2.0.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.0.0-beta.7.tgz#27751991e0b013ee4af487e51e16a58d477e5857"
-  integrity sha512-cAe7VqoxxkxTr/2N93UpW/LQbcUVKC+QRA3ZBq5ZWImtAf/8jtcdC2mQ9g4AKmSvyaKQtqxrRn4i/y5z7yrrKA==
+"@vue/test-utils@^2.0.0-rc.9":
+  version "2.0.0-rc.9"
+  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.0.0-rc.9.tgz#b3f817d710a1d0ae2084143520c9d8d3c552bfa6"
+  integrity sha512-iJNAAfXTTSd2/5vUZpFbUwUwC8w3hbFu8s9ptKkZGsiw6pO6mFsaLs2rzI3Ea/8hwqcF3K7Wp2diKOdzqmb6qg==
 
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
